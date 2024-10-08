@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @huyhaf
-- 🌱 I’m currently a third-year student and learning IT at PTIT
+- 🌱 I’m currently a forth-year student and learning IT at PTIT
 - 💞️ I’m looking to apply a job relating to web developing
 - 📫 How to reach me
 <ul>
